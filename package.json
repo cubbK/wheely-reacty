@@ -1,0 +1,15 @@
+{
+  "name": "wheely-reacty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cubbK/wheely-reacty.git",
+  "author": "Dan Popa <danpopa1998@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel test/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.7.2"
+  }
+}
